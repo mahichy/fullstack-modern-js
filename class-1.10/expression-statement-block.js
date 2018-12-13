@@ -3,17 +3,3 @@
   var b = a.toUpperCase();
  console.log(console.log(b)); 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
