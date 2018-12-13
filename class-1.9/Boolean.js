@@ -1,6 +1,7 @@
 var villain = false;
 var hero = true;
 
+
 var a = true;
 var b = false;
 var c = Boolean(345);
@@ -13,9 +14,11 @@ var i = Boolean({});
 var j = Boolean([]);
 var k = Boolean(undefined);
 var l = Boolean("mahi");
+
 var m = Boolean("");
 var n = Boolean(NaN);
 var o = Boolean(null);
+
 
 
 
