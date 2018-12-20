@@ -1,4 +1,4 @@
-
+/*
 let num = +process.argv[2];
 if (!Number.isInteger(num)){
     console.log("the provided valu is not a number");
@@ -14,7 +14,7 @@ console.log(`${num}x7 = ${num*7}`);
 console.log(`${num}x8 = ${num*8}`);
 console.log(`${num}x9 = ${num*9}`);
 console.log(`${num}x10 = ${num*10}`);
-
+*/
 
 let num = +process.argv[2];
 
@@ -26,6 +26,7 @@ var i = 1;
 for (let i=1; i<=10;i++){
     console.log(`${num}x${i} = ${num*i}`);
 }
+
 
 
 
