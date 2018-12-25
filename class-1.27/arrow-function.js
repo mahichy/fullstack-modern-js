@@ -28,3 +28,5 @@ console.log(x(4,3))
 console.log(x(7,4))
 console.log(x(8,5))
 console.log(x(9,4))
+
+(argument,hn,hm,gm)=>{returnexpression}
