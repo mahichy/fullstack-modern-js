@@ -1,0 +1,13 @@
+{
+  "name": "my_1st_project_2nd_part",
+  "version": "1.0.0",
+  "description": "node express",
+  "main": "index.js",
+  "author": "mahi chowdhury",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
