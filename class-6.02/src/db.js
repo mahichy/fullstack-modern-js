@@ -10,5 +10,11 @@ const User = db.define(`users`,{
 }) 
 
 const Direction = db.define(`directions`,{
+    destination : Sequelize.TEXT,
+    hash : Sequelize.TEXT 
 
 })  
+
+module.exports = {
+    db,user,Direction
+}
